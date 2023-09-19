@@ -11,12 +11,7 @@ The website is built using Node.js, Express.js, MongoDB, and features a responsi
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Features of the Platform](#features)
 - [License](#license)
 
 ## About
@@ -31,4 +26,6 @@ The Vachell website is designed to showcase articles and features on various top
 - **About Us:** Learn more about the mission behind Vachell.
 - **Contact:** Get in touch with the Vachell team.
 
+## License
 
+**License:** Proprietary (All Rights Reserved)

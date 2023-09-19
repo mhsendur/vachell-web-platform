@@ -17,7 +17,7 @@ The website is built using Node.js, Express.js, MongoDB, and features a responsi
 
 ## About
 
-The Vachell website is designed to showcase articles and features on various topics. It provides a user-friendly interface for reading and exploring content.
+The Vachell website is designed to showcase articles and features on various topics. It provides a user-friendly interface for reading and exploring content. Articles and featured content can be dynamically added and displayed on the web pages.
 
 ## Features of the Platform
 

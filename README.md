@@ -1,7 +1,7 @@
 # vachell-web-platform
 Web-platform dedicated for sharing and publishing articles, features, and other content. 
 
-**[Visit the Website here, Vachell - Modern Culture, Art and Music Platform](https://www.vachell.co)**
+**[Visit the Website here, Vachell - Modern Culture, Art and Music Platform](https://vachell.co/)**
 
 # Vachell Website
 

@@ -10,7 +10,6 @@ const articleSchema = new mongoose.Schema({
   content: String, // article content
   image: String, // URL or path to the image file
   sourcesAndReferences: String, // if article references other sources
-  // Other fields
 });
 
 const Article = mongoose.model('Article', articleSchema);

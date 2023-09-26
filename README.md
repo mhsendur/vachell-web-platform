@@ -25,7 +25,7 @@ The Vachell website is designed to showcase articles and features on various top
 - **Article Details:** Click on an article to view its full content, including author information, read time, and more.
 - **Feature Listing:** Explore featured content, including videos, featured content's genre, producer, description and more.
 - **About Us:** Learn more about the mission behind Vachell.
-- **Contact:** Get in touch with the Vachell team.
+- **Contact:** Get in touch with Vachell.
 
 ## License
 

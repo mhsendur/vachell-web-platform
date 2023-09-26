@@ -9,7 +9,6 @@ const shopSchema = new mongoose.Schema({
   image: String, // URL or path to the product image
   additionalImage: String, // URL or path to additional images to add to the product
   additionalInfo: String, // additional information for the product shipment info etc...
-  // Other fields
 }
 );
 

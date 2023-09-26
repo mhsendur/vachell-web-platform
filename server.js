@@ -149,7 +149,7 @@ app.get('/articles/:articleTitle/content', async (req, res) => {
   try {
     const articleTitle = req.params.articleTitle;
 
-    // Find article by title in your database
+    // Find article by title in the database
     const article = await Article.findOne({ title: articleTitle });
 
     if (!article) {
@@ -168,7 +168,7 @@ app.get('/articles/:articleTitle/content', async (req, res) => {
 // Route for the feature list page
 app.get('/features', async (req, res) => {
   try {
-    // Fetch a list of features from your database
+    // Fetch a list of features from the database
     const features = await Feature.find();
 
     // Serve the HTML page for the feature list
@@ -184,7 +184,7 @@ app.get('/features/:featureTitle', async (req, res) => {
   try {
     const featureTitle = req.params.featureTitle;
 
-    // Find feature by title in your database
+    // Find feature by title in the database
     const feature = await Feature.findOne({ title: featureTitle });
 
     if (!feature) {
@@ -206,7 +206,7 @@ app.get('/features/:featureTitle/content', async (req, res) => {
   try {
     const featureTitle = req.params.featureTitle;
 
-    // Find the feature by title in your database
+    // Find the feature by title in the database
     const feature = await Feature.findOne({ title: featureTitle });
 
     if (!feature) {
@@ -237,7 +237,7 @@ app.get('/home', (req, res) => {
   res.sendFile(__dirname + '/public/index.html');
 });
 
-const port = 3000; // or whatever port number you want to use
+const port = 3000; // for making it public
 
 //Start the server
 app.listen(port, '0.0.0.0', () => {

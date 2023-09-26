@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-// Import the Article model (assuming you've created a model for articles)
+// Importing the Article model
 const Article = require('../models/article');
 
 // Route to get all articles
@@ -24,6 +24,5 @@ router.get('/articles/:id', async (req, res) => {
   }
 });
 
-// Add more routes for creating, updating, and deleting articles as needed
 
 module.exports = router;

@@ -1,5 +1,4 @@
 function fetchAndDisplayArticle(articleTitle) {
-  // Use the article title to construct the API URL
   const apiUrl = `/articles/${encodeURIComponent(articleTitle)}`;
 
   // Fetch the article data

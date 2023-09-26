@@ -1,5 +1,5 @@
 const express = require('express');
-const db = require('./db'); // Require the db.js file
+const db = require('./db'); 
 const mongoose = require('mongoose');
 
 const app = express();

@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-// Import the ShopItem model (assuming you've created a model for shop items)
+// Import the ShopItem Model
 const ShopItem = require('../models/shop');
 
 // Route to get all shop items
@@ -24,6 +24,6 @@ router.get('/shop/:id', async (req, res) => {
   }
 });
 
-// Add more routes for creating, updating, and deleting shop items as needed
+// Add more routes for creating, updating if needed
 
 module.exports = router;

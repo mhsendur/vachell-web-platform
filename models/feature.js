@@ -9,7 +9,6 @@ const featureSchema = new mongoose.Schema({
   content: String,
   featuredImage: String, // Thumbnail of the feature, URL of the feature
   video: String, // URL to the video content
-  // Other fields
 }
 );
 

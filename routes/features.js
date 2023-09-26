@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-// Import the Feature model (assuming you've created a model for features)
+//Import the Feature model
 const Feature = require('../models/feature');
 
 // Route to get all features
@@ -24,6 +24,6 @@ router.get('/features/:id', async (req, res) => {
   }
 });
 
-// Add more routes for creating, updating, and deleting features as needed
+
 
 module.exports = router;

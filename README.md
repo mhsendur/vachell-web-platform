@@ -33,3 +33,12 @@ The Vachell website is designed to showcase articles and features on various top
 **License:** Proprietary (All Rights Reserved)
 
 <img width="1728" alt="Screenshot 2024-01-11 at 19 07 36" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/9a809c1a-e2e2-42a6-84ea-9a56a2497a73">
+
+
+<img width="1728" alt="Screenshot 2024-01-11 at 19 08 34" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/c5b20849-4c4b-4732-a3cc-24d7109d903f">
+
+
+<img width="1728" alt="Screenshot 2024-01-11 at 19 08 59" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/19504880-6bfa-46c4-8b76-f4fd74028c2a">
+
+
+<img width="1728" alt="Screenshot 2024-01-11 at 19 09 13" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/012204aa-d847-4ae0-abde-9529d83024b9">

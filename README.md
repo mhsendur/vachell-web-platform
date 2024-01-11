@@ -1,9 +1,11 @@
 # Vachell Web Platform
+
+<img width="1712" alt="Screenshot 2024-01-11 at 19 28 46" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/ceeb456f-ffa2-4c66-b6ab-7be3a8ed7f93">
+
 Web-platform dedicated for sharing and publishing articles, features, and other content on modern culture, art and music around the world. 
 
 **[Visit the Website here, Vachell - Modern Culture, Art and Music Platform](https://vachell.co/)**
 
-<img width="1712" alt="Screenshot 2024-01-11 at 19 28 46" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/ceeb456f-ffa2-4c66-b6ab-7be3a8ed7f93">
 
 
 # Vachell Website

@@ -1,12 +1,13 @@
-# vachell-web-platform
-Web-platform dedicated for sharing and publishing articles, features, and other content. 
+# Vachell Web Platform
+Web-platform dedicated for sharing and publishing articles, features, and other content on modern culture, art and music around the world. 
 
 **[Visit the Website here, Vachell - Modern Culture, Art and Music Platform](https://vachell.co/)**
 
 # Vachell Website
 
 This is the repository for the Vachell website, an online platform dedicated to articles, features, and other content. Repository contains the source code for the Vachell Website, and it is not open for public use.
-The website is built using Node.js, Express.js, MongoDB, and features a responsive design.
+
+The website is built using JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, and features a responsive design.
 
 
 ## Table of Contents
@@ -30,3 +31,5 @@ The Vachell website is designed to showcase articles and features on various top
 ## License
 
 **License:** Proprietary (All Rights Reserved)
+
+<img width="1728" alt="Screenshot 2024-01-11 at 19 07 36" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/9a809c1a-e2e2-42a6-84ea-9a56a2497a73">

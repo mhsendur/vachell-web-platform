@@ -32,13 +32,25 @@ The Vachell website is designed to showcase articles and features on various top
 
 **License:** Proprietary (All Rights Reserved)
 
+
+# Vachell's Home Page
+
 <img width="1728" alt="Screenshot 2024-01-11 at 19 07 36" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/9a809c1a-e2e2-42a6-84ea-9a56a2497a73">
 
+# Vachell's Home Page - Articles Section
+
+The latest 6 of our articles that can be dynamically updated are displayed on the home web page, with our design presented as below:
 
 <img width="1728" alt="Screenshot 2024-01-11 at 19 08 34" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/c5b20849-4c4b-4732-a3cc-24d7109d903f">
 
+# Vachell's Home Page - Features Section
+
+The latest features of Vachell are displayed as below on the home web page. Features include video content, and text information about the visual content that is provided to the user.
 
 <img width="1728" alt="Screenshot 2024-01-11 at 19 08 59" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/19504880-6bfa-46c4-8b76-f4fd74028c2a">
 
+# Vachell's Home Page - Shop Section
+
+Vachell's latest 3 merchandise displayed as below to the user on the home web page. The merchandise can be purchased via Redbubble. 
 
 <img width="1728" alt="Screenshot 2024-01-11 at 19 09 13" src="https://github.com/mhsendur/vachell-web-platform/assets/120842010/012204aa-d847-4ae0-abde-9529d83024b9">

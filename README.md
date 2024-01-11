@@ -7,8 +7,7 @@ Web-platform dedicated for sharing and publishing articles, features, and other 
 **[Visit the Website here, Vachell - Modern Culture, Art and Music Platform](https://vachell.co/)**
 
 
-
-# Vachell Website
+# Vachell Web Platform - Implementation
 
 This is the repository for the Vachell website, an online platform dedicated to articles, features, and other content. Repository contains the source code for the Vachell Website, and it is not open for public use.
 
